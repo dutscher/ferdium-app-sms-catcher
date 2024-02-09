@@ -358,6 +358,8 @@ export const DEFAULT_APP_SETTINGS = {
   clipboardNotifications: true,
   notifyTaskBarOnMessage: false,
   showDisabledServices: true,
+  twoFactorAutoCatcher: false,
+  twoFactorAutoCatcherArray: 'token, code, sms, verify',
   showServiceName: false,
   showMessageBadgeWhenMuted: true,
   showDragArea: false,
